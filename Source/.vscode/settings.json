@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmsis_os2.h": "c",
+        "cli_commands.h": "c"
+    },
+    "editor.rulers": [120]
+}
